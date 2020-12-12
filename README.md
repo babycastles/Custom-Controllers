@@ -2,7 +2,7 @@
 
 ## 🌈✏️🎨𝙰𝚁𝚃 𝚂𝚀𝙾𝙾𝙻🎨✏️✨  
 Made for the game [ART SQOOL](https://artsqool.cool/) by [Julian Glander](http://glander.co/)  
-Shown at the [Malt Baby](https://www.babycastles.com/master-calendar/malt-baby) exhibit held @ [Babycastles](https://www.babycastles.com) April 5, 2019 - July 13, 2019   
+Shown at the [Malt Baby](https://www.babycastles.com/master-calendar/malt-baby) exhibit held @ [Babycastles](https://www.babycastles.com) April 5 - July 13, 2019   
 Controller made by [Sonya Belakhlef](https://www.sonya.world/) (fabrication) and [Lauren Gardner](https://poohead.com/) (electronics)  
   
 ![Finished Controller](https://images.squarespace-cdn.com/content/5cbe4d8b51f4d4919490540e/1607742994368-A299M5VAD8P5NY1Y26VC/finished+controller.JPG?format=500w&content-type=image%2Fjpeg)
